@@ -1,0 +1,30 @@
+/**
+ * This file should get overwritten if Method 1 is used. If Method 2 is chosen,
+ * remove this comment and start adding your styles to this file.
+ */
+@media screen and (min-width: 768px){.jumbotron {padding: 30px 15px;}}.features  div{text-align: center;}.features h3{margin: 15px !important;}  .query-method {
+font-family: "Microsoft Yahei";
+font-size: 14px;
+font-weight: bold;
+}
+.query-tip {
+font-family: "Microsoft Yahei";
+font-size: 12px;
+}
+body h1 h2 h3 h4 h5 h6{
+color:#808080!important;
+}
+
+#block-block-5{
+color:#808080!important;
+}
+.footer{
+    margin-top: 45px;
+    padding-top: 35px;
+    padding-bottom: 36px;
+    border-top: 1px solid #E5E5E5;
+}
+
+.main-container{
+	margin-top:60px;
+}
